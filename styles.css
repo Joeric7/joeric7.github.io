@@ -16,6 +16,7 @@ body {
     background-size: 26px 26px;
     background-position: 0 0, 13px 13px;
     background-color: #c7d3d6;
+    overflow-x: hidden;
 }
 
 header {
@@ -92,6 +93,7 @@ section {
     width: 12rem;
     height: 12rem;
     font-size: 1.1rem;
+    cursor: pointer;
 }
 
 /* Colors of the color grid elements */
